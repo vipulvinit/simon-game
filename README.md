@@ -1,4 +1,4 @@
-# Simon Game 🎮
+# [Simon Game 🎮](https://simon-game-itdf.vercel.app/)
 
 A fun and interactive **Simon Game** implemented using HTML, CSS, and JavaScript. Test your memory and pattern recognition skills as the game generates increasingly complex color sequences for you to replicate. How far can you go?
 
